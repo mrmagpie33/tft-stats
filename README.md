@@ -5,5 +5,6 @@
 #
 # the script lol_stats.pl is used to pull data from lol chess web site
 #
-# the script tft_stats.pl is used to pull data from the leagueofgraphs site
-# this version is deprecated
+# the script tft_stats.pl is used to pull data from the leagueofgraphs site (this version is deprecated)
+#
+#
