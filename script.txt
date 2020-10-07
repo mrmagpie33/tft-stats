@@ -1,0 +1,300 @@
+rank_na is 1
+top_name is TSM KitingisHard
+top_lp is LP: 1040
+rank_na is 2
+top_name is C9 k3soju
+top_lp is LP: 985
+rank_na is 3
+top_name is Nostereleven
+top_lp is LP: 964
+rank_na is 4
+top_name is Mean Mister Kien
+top_lp is LP: 908
+rank_na is 5
+top_name is DQA TFT
+top_lp is LP: 830
+rank_na is 6
+top_name is AYAYAMETE
+top_lp is LP: 801
+rank_na is 7
+top_name is Kiyoon
+top_lp is LP: 740
+rank_na is 8
+top_name is Agon
+top_lp is LP: 717
+rank_na is 9
+top_name is DeliciousMilkGG
+top_lp is LP: 701
+rank_na is 10
+top_name is jasonjava
+top_lp is LP: 687
+rank_na is 11
+top_name is kevyzhou
+top_lp is LP: 663
+rank_na is 12
+top_name is Treebeard TwTv
+top_lp is LP: 657
+rank_na is 13
+top_name is TheshyuzimyGod
+top_lp is LP: 599
+rank_na is 14
+top_name is Moggy Mako
+top_lp is LP: 599
+rank_na is 15
+top_name is Kalsu
+top_lp is LP: 573
+rank_na is 16
+top_name is SushiBabyMeow
+top_lp is LP: 559
+rank_na is 17
+top_name is TTV inikoiniko
+top_lp is LP: 556
+rank_na is 18
+top_name is TwitchTV Javaday
+top_lp is LP: 554
+rank_na is 19
+top_name is RU CHAMPION
+top_lp is LP: 539
+rank_na is 20
+top_name is NA FREE KEKW
+top_lp is LP: 509
+rank_na is 21
+top_name is Mismatched Socks
+top_lp is LP: 456
+rank_na is 22
+top_name is enaek
+top_lp is LP: 432
+rank_na is 23
+top_name is wattzzy
+top_lp is LP: 428
+rank_na is 24
+top_name is Tangela
+top_lp is LP: 405
+rank_na is 25
+top_name is M35S
+top_lp is LP: 396
+rank_na is 26
+top_name is PAID MY DUES
+top_lp is LP: 390
+rank_na is 27
+top_name is numanotaihasin
+top_lp is LP: 390
+rank_na is 28
+top_name is Naturesbf
+top_lp is LP: 389
+rank_na is 29
+top_name is hi im joby
+top_lp is LP: 385
+rank_na is 30
+top_name is NAI BANG
+top_lp is LP: 376
+rank_na is 31
+top_name is trikpi
+top_lp is LP: 368
+rank_na is 32
+top_name is Brocc&oacute;li
+top_lp is LP: 367
+rank_na is 33
+top_name is lilsteppy
+top_lp is LP: 364
+rank_na is 34
+top_name is ttv guubums
+top_lp is LP: 363
+rank_na is 35
+top_name is Live for the Day
+top_lp is LP: 359
+rank_na is 36
+top_name is Spicy AppIes
+top_lp is LP: 358
+rank_na is 37
+top_name is Valorz
+top_lp is LP: 358
+rank_na is 38
+top_name is flow of game
+top_lp is LP: 356
+rank_na is 39
+top_name is Pawnup
+top_lp is LP: 352
+rank_na is 40
+top_name is Rush big fan
+top_lp is LP: 344
+rank_na is 41
+top_name is Velayy
+top_lp is LP: 342
+rank_na is 42
+top_name is H2211
+top_lp is LP: 337
+rank_na is 43
+top_name is pyrirer
+top_lp is LP: 323
+rank_na is 44
+top_name is Incite
+top_lp is LP: 318
+rank_na is 45
+top_name is slippinbug
+top_lp is LP: 318
+rank_na is 46
+top_name is ajmonsta
+top_lp is LP: 316
+rank_na is 47
+top_name is creamcrunch
+top_lp is LP: 310
+rank_na is 48
+top_name is GeneralCai
+top_lp is LP: 307
+rank_na is 49
+top_name is Attack
+top_lp is LP: 303
+rank_na is 50
+top_name is ttvBebe872
+top_lp is LP: 290
+rank_na is 51
+top_name is becca tilts
+top_lp is LP: 283
+rank_na is 52
+top_name is 5tunt
+top_lp is LP: 277
+rank_na is 53
+top_name is GrandVice8
+top_lp is LP: 274
+rank_na is 54
+top_name is jwhur
+top_lp is LP: 270
+rank_na is 55
+top_name is Xxxxxxyux
+top_lp is LP: 268
+rank_na is 56
+top_name is zugrug
+top_lp is LP: 267
+rank_na is 57
+top_name is Xnieamo
+top_lp is LP: 259
+rank_na is 58
+top_name is Twitch RayditzFN
+top_lp is LP: 254
+rank_na is 59
+top_name is permabanned0609
+top_lp is LP: 254
+rank_na is 60
+top_name is IGOR9
+top_lp is LP: 250
+rank_na is 61
+top_name is Trade
+top_lp is LP: 248
+rank_na is 62
+top_name is Kunbee
+top_lp is LP: 245
+rank_na is 63
+top_name is NoobOwl
+top_lp is LP: 240
+rank_na is 64
+top_name is RedStorm
+top_lp is LP: 236
+rank_na is 65
+top_name is MathGavin
+top_lp is LP: 233
+rank_na is 66
+top_name is I Aurora I
+top_lp is LP: 232
+rank_na is 67
+top_name is garet
+top_lp is LP: 228
+rank_na is 68
+top_name is jpsh
+top_lp is LP: 227
+rank_na is 69
+top_name is badfps
+top_lp is LP: 226
+rank_na is 70
+top_name is Kazhu
+top_lp is LP: 225
+rank_na is 71
+top_name is TTV Kenya1
+top_lp is LP: 221
+rank_na is 72
+top_name is G&Ouml;DLY
+top_lp is LP: 221
+rank_na is 73
+top_name is BKrisz TFT
+top_lp is LP: 220
+rank_na is 74
+top_name is AceKandil TFT
+top_lp is LP: 218
+rank_na is 75
+top_name is TardBabyG
+top_lp is LP: 217
+rank_na is 76
+top_name is Syachi
+top_lp is LP: 216
+rank_na is 77
+top_name is Myoui
+top_lp is LP: 216
+rank_na is 78
+top_name is XDG Weinis
+top_lp is LP: 214
+rank_na is 79
+top_name is Clear
+top_lp is LP: 213
+rank_na is 80
+top_name is ttv theJirachy
+top_lp is LP: 212
+rank_na is 81
+top_name is hażel
+top_lp is LP: 212
+rank_na is 82
+top_name is QWADQWADQWADQWAD
+top_lp is LP: 211
+rank_na is 83
+top_name is lizste
+top_lp is LP: 210
+rank_na is 84
+top_name is Aerofall
+top_lp is LP: 209
+rank_na is 85
+top_name is jamzydraco
+top_lp is LP: 208
+rank_na is 86
+top_name is ęcce homo
+top_lp is LP: 207
+rank_na is 87
+top_name is TheWaterBearr
+top_lp is LP: 206
+rank_na is 88
+top_name is YT Nye
+top_lp is LP: 206
+rank_na is 89
+top_name is Garchompro
+top_lp is LP: 206
+rank_na is 90
+top_name is &ETH;rekt
+top_lp is LP: 199
+rank_na is 91
+top_name is GrizzleEatsTuna
+top_lp is LP: 196
+rank_na is 92
+top_name is Elvisbeback
+top_lp is LP: 196
+rank_na is 93
+top_name is Nyuhu
+top_lp is LP: 191
+rank_na is 94
+top_name is s&egrave;tsuko
+top_lp is LP: 188
+rank_na is 95
+top_name is Laplace Tails
+top_lp is LP: 163
+rank_na is 96
+top_name is 60ember
+top_lp is LP: 157
+rank_na is 97
+top_name is Sodium2High
+top_lp is LP: 90
+rank_na is 98
+top_name is Oreo1367
+top_lp is LP: 51
+rank_na is 99
+top_name is TTV Huunter8
+top_lp is LP: 51
+rank_na is 100
+top_name is ibrownie
+top_lp is LP: 23

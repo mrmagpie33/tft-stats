@@ -1,0 +1,3805 @@
+<!doctype html>
+<html lang="en" data-locale="en">
+<head>
+    <title>TFT  Tier Leaderboards NA - TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="7U2u4eNvhdC93npjGu7vpBomvUtBKkPVxQPBj1WP">
+    <meta name="title" content="TFT  Tier Leaderboards NA :: TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG"/>
+    <meta name="description" content="LoL TFT Stats, Leaderboards, Ranking, TFT Databases, iPhone, Android, Mobile, CheatSheet, LoL AutoChess, Synergies, Builder, Guide, Items, Champions"/>
+    <meta name="keywords" content="TFT, Stats, League of Legends, Teamfight Tactics, Auto Chess, Guide, Synergies"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:title" content="TFT  Tier Leaderboards NA :: TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG"/>
+    <meta property="og:site_name" content="TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG">
+    <meta property="og:image" content="//cdn.lolchess.gg/images/common/og_lolchessgg.png?1"/>
+    <meta property="og:description" content="LoL TFT Stats, TFT Databases, CheatSheet, LoL AutoChess, Synergies, Builder, Guide, Items, Champions"/>
+    <meta property="og:url" content="https://lolchess.gg/leaderboards?region=na">
+    <meta property="og:type" content="website"/>
+    <meta name="apple-mobile-web-app-title" content="LoLCHESS.GG"/>
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="//cdn.lolchess.gg/images/favicon/ms-icon-144x144.png?1">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="57x57?1" href="//cdn.lolchess.gg/images/favicon/apple-icon-57x57.png?1">
+    <link rel="apple-touch-icon" sizes="60x60" href="//cdn.lolchess.gg/images/favicon/apple-icon-60x60.png?1">
+    <link rel="apple-touch-icon" sizes="72x72" href="//cdn.lolchess.gg/images/favicon/apple-icon-72x72.png?1">
+    <link rel="apple-touch-icon" sizes="76x76" href="//cdn.lolchess.gg/images/favicon/apple-icon-76x76.png?1">
+    <link rel="apple-touch-icon" sizes="114x114" href="//cdn.lolchess.gg/images/favicon/apple-icon-114x114.png?1">
+    <link rel="apple-touch-icon" sizes="120x120" href="//cdn.lolchess.gg/images/favicon/apple-icon-120x120.png?1">
+    <link rel="apple-touch-icon" sizes="144x144" href="//cdn.lolchess.gg/images/favicon/apple-icon-144x144.png?1">
+    <link rel="apple-touch-icon" sizes="152x152" href="//cdn.lolchess.gg/images/favicon/apple-icon-152x152.png?1">
+    <link rel="apple-touch-icon" sizes="180x180" href="//cdn.lolchess.gg/images/favicon/apple-icon-180x180.png?1">
+    <link rel="icon" type="image/png" sizes="192x192"  href="//cdn.lolchess.gg/images/favicon/android-icon-192x192.png?1">
+    <link rel="icon" type="image/png" sizes="32x32" href="//cdn.lolchess.gg/images/favicon/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="96x96" href="//cdn.lolchess.gg/images/favicon/favicon-96x96.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="//cdn.lolchess.gg/images/favicon/favicon-16x16.png?1">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="canonical" href="https://lolchess.gg/leaderboards?region=na">
+    <link rel="alternate" href="https://lolchess.gg/leaderboards?region=na" hreflang="x-default">
+    <link rel="alternate" href="https://lolchess.gg/leaderboards?region=na&hl=en-US" hreflang="en-US">
+    <link rel="alternate" href="https://lolchess.gg/leaderboards?region=na&hl=ko-KR" hreflang="ko-KR">
+    <link rel="alternate" href="https://lolchess.gg/leaderboards?region=na&hl=ja-JP" hreflang="ja-JP">
+    <link rel="alternate" href="https://lolchess.gg/leaderboards?region=na&hl=vi-VN" hreflang="vi-VN">
+    <link rel="alternate" href="https://lolchess.gg/leaderboards?region=na&hl=de-DE" hreflang="de-DE">
+    <link rel="stylesheet" href="//cdn.lolchess.gg/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdn.lolchess.gg/css/app.css?id=c8c2c60d8bd18373ab94">
+    <link rel="stylesheet" href="//cdn.lolchess.gg/vendor/fontawesome/css/all.min.css">
+    <style>
+        .pagination {
+            justify-content: center;
+        }
+    </style>
+    <script async src="//www.googletagmanager.com/gtag/js?id=UA-142246921-1"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-142246921-1');</script>
+    <script async src="//securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        window.googletag = window.googletag || {cmd: []};
+        googletag.cmd.push(function () {
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-2756103832564341", enable_page_level_ads: true });</script>
+    <script async src="//www.statsforads.com/tag/8093f8e3-93c6-4b8d-8a20-e56dced846a1.min.js"></script>
+    <script async src="//cmp.optad360.io/items/9db3d9f4-f50a-4c08-b097-a332e97ba493.min.js"></script>
+    <script type="text/javascript" src="https://ads.vidoomy.com/lolchess.gg_13024.js" async></script>
+    <script>
+    (function(t,l){
+        let w=window,d=document,s=d.createElement('script'),f=d.getElementsByTagName('script')[0];
+        w[t]=w[t]||function(){(w["_rgea"]=w["_rgea"]||[["uts",new Date()]]).push(Array.prototype.slice.call(arguments));w.RGEA&&w.RGEA.p();};
+        s.type='text/javascript'; s.async=true; s.defer=true; s.src=l; f.parentNode.insertBefore(s,f);
+    })("rgea", "https://static.developer.riotgames.com/js/rgea.min.js");
+
+    rgea("propertyId", "RGEA0002-07f41c8b-80fc-40db-b1e7-859380447559");
+    rgea("lolpid", "na1"); 
+    rgea("anonymous", false); 
+    </script>
+</head>
+<body >
+<div id="wrapper">
+    <header class="header-gnb tft ">
+    <div class="family-sites">
+        <div class="container">
+            <ul>
+                <li>
+                    <a href="//dak.gg">
+                        <img src="//cdn.lolchess.gg/images/family/ico_pubg.png" srcset="//cdn.lolchess.gg/images/family/ico_pubg@2x.png 2x">
+                        <span>PUBG</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//wz.dak.gg">
+                        <img src="//cdn.lolchess.gg/images/family/logo-wz.png" srcset="//cdn.lolchess.gg/images/family/logo-wz@2x.png 2x">
+                        <span>CoD: Warzone</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//valorant.dak.gg">
+                        <img src="//cdn.lolchess.gg/images/family/logo-valorant.svg" alt="" width="16">
+                        <span>Valorant</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//poro.gg">
+                        <img src="//cdn.lolchess.gg/images/family/ico_lol.png" srcset="//cdn.lolchess.gg/images/family/ico_lol@2x.png 2x">
+                        <span>League of Legends</span>
+                    </a>
+                </li>
+                <li class="active">
+                    <a href="//lolchess.gg">
+                        <img src="//cdn.lolchess.gg/images/family/ico_tft_lolchess.png">
+                        <span>TeamFight Tactics</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//lor.poro.gg">
+                        <img src="//cdn.lolchess.gg/images/family/ico_lor.png">
+                        <span>LoR</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//apexer.gg">
+                        <img src="//cdn.lolchess.gg/images/family/symbol-apexlegends@2x.png">
+                        <span>Apex Legends</span>
+                    </a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+
+    <div class="locale">
+                                                                
+    <ul class="dropdown-menu">
+                                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=ko-KR" data-lang="ko_KR">
+                    한국어
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=en-US" data-lang="en_US">
+                    English
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=ja-JP" data-lang="ja_JP">
+                    日本語
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=vi-VN" data-lang="vi_VN">
+                    Tiếng Việt
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=de-DE" data-lang="de_DE">
+                    Deutsch
+                </a>
+            </li>
+            </ul>
+</div>
+    <div class="brand-site brand-site-tft container">
+        <a href="/" class="logo logo-leaderboards">
+            <img src="//cdn.lolchess.gg/images/common/lolchessgg-logo-bkbg@2x.png" alt="LoLChess.GG">
+                    </a>
+
+                <div class="colaborate">
+            X
+            <a href="//poro.gg" target="_blank">
+                <img src="//cdn.lolchess.gg/images/logo/porogg_red.png" class="porogg" alt="PORO.GG">
+            </a>
+        </div>
+        
+        <div class="search-box" id="gnb-search-box">
+    <form action="/search" class="search">
+        <div class="btn-group">
+                        <input type="hidden" name="region" value="NA">
+            <button type="button" class="btn btn-dark btn-sm dropdown-toggle" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                <span>NA</span>
+            </button>
+            <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#"
+                       data-region="br">BR</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="eune">EUNE</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="euw">EUW</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="jp">JP</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="kr">KR</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="lan">LAN</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="las">LAS</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="na">NA</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="oce">OCE</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="tr">TR</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="ru">RU</a>
+                            </div>
+        </div>
+        <input type="text" name="name" value="" maxlength="30" required
+               placeholder="Search Summoner Name"/>
+        <button type="submit">
+            <i class="fas fa-search"></i>
+        </button>
+    </form>
+</div>
+    </div>
+        <div class="gnb gnb-tft">
+        <div class="container">
+            <ul>
+                <li class="guide">
+                    <a href="/patch-notes">Guides</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/meta">Team Comps</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/decks" style="color: orange;">Meta Trends</a>
+                </li>
+                <li class="new">
+                    <a href="https://lolchess.gg/statistics/items" style="color:greenyellow;">Item Trends</a>
+                </li>
+                <li class="bar"><span></span></li>
+                <li class="active">
+                    <a href="https://lolchess.gg/leaderboards">Leaderboards</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/favorites">Favorites</a>
+                </li>
+                <li class="bar"><span></span></li>
+                <li>
+                    <a href="https://lolchess.gg/champions/set4">Champions</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/synergies">Traits</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/items">Items</a>
+                </li>
+                <li class="">
+                    <a href="https://lolchess.gg/cheatsheet">Cheat Sheet</a>
+                </li>
+                <li class="bar"><span></span></li>
+                <li class="builder">
+                    <a href="https://lolchess.gg/builder">Builder</a>
+                </li>
+                <li class="simulator">
+                    <a href="/simulator">Synergy Builder</a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</header>
+                <div class="ap_side1 leaderboards">
+                    <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-2756103832564341"
+                 data-ad-slot="7516074584"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            </div>
+        <div class="ap_side2 leaderboards"
+        >
+                    <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-2756103832564341"
+                 data-ad-slot="2263747906"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            </div>
+        <div class="leaderboards container mt-4 px-0" style="overflow-x:hidden;">
+        <ul class="nav nav-tabs nav-justified">
+            <li class="nav-item">
+                <a class="nav-link"
+                   href="https://lolchess.gg/leaderboards/global">GLOBAL</a>
+            </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=br">
+                        BR
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=eune">
+                        EUNE
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=euw">
+                        EUW
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=jp">
+                        JP
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=kr">
+                        KR
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=lan">
+                        LAN
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=las">
+                        LAS
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link active"
+                       href="https://lolchess.gg/leaderboards?region=na">
+                        NA
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=oce">
+                        OCE
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=tr">
+                        TR
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=ru">
+                        RU
+                    </a>
+                </li>
+                    </ul>
+
+                    <div class="leaderboards-distribution">
+                <h4>
+                    Tier Distribution
+                </h4>
+
+                <canvas></canvas>
+            </div>
+        
+        <div class="ap_top leaderboards">
+                    <ins class="adsbygoogle"
+                 style="display:block;"
+                 data-ad-client="ca-pub-2756103832564341"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                var params = {
+                    google_ad_slot: 6723643763
+                };
+
+                if (window.innerWidth >= 1200) {
+                                            params.google_ad_slot = 9377727261;
+                                    } else {
+                    if (window.innerWidth <= 727) {
+                        params.google_ad_format = 'rectangle';
+                    } else {
+                        params.google_ad_format = 'auto';
+                    }
+                }
+
+                (adsbygoogle = window.adsbygoogle || []).push({
+                    params: params
+                });
+            </script>
+            </div>
+        <div class="ap_top_mobile leaderboards">
+        <div id='div-gpt-ad-1563152770827-0'>
+            <!-- /21811228837/lolchessgg_top_mobile -->
+            <script>
+                if (window.innerWidth < 728) {
+                    googletag.cmd.push(function () {
+                        var gpt_mapping_mobile = googletag.sizeMapping()
+                            .addSize([336, 0], [[336, 280]])
+                            .addSize([300, 0], [[300, 250]])
+                            .addSize([0, 0], [])
+                            .build();
+
+                        googletag.defineSlot('/21811228837/lolchessgg_top_mobile', [336, 280], 'div-gpt-ad-1563152770827-0')
+                            .defineSizeMapping(gpt_mapping_mobile)
+                            .addService(googletag.pubads());
+
+                        googletag.display('div-gpt-ad-1563152770827-0');
+                    });
+                }
+            </script>
+        </div>
+    </div>
+                    <div class="ap_side2_opad360 leaderboards">
+        <script>
+            if (window.innerWidth >= 1800) {
+                document.writeln('<ins class="staticpubads89354" data-sizes-desktop="300x600,300x250,240x400,160x600,120x600" data-slot="5"></ins>');
+            } else if (window.innerWidth >= 1500) {
+                document.writeln('<ins class="staticpubads89354" data-sizes-desktop="160x600,120x600" data-slot="5"></ins>');
+            } else if (window.innerWidth >= 1430) {
+                document.writeln('<ins class="staticpubads89354" data-sizes-desktop="120x600" data-slot="5"></ins>');
+            }
+        </script>
+    </div>
+        
+        
+                    <ul class="nav nav-tabs nav-justified tier-tab">
+                <li class="nav-item">
+                    <a class="nav-link active"
+                       href="https://lolchess.gg/leaderboards?region=na">
+                        All
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=na&amp;tier=challenger">
+                        Challenger
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=na&amp;tier=grandmaster">
+                        Grandmaster
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=na&amp;tier=master">
+                        Master
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=na&amp;tier=diamond">
+                        Diamond
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=na&amp;tier=platinum">
+                        Platinum
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=na&amp;tier=gold">
+                        Gold
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=na&amp;tier=silver">
+                        Silver
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=na&amp;tier=bronze">
+                        Bronze
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="https://lolchess.gg/leaderboards?region=na&amp;tier=iron">
+                        Iron
+                    </a>
+                </li>
+            </ul>
+
+            <div class="tier-summary">
+                <h4>
+                                            <img src="//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png" alt="Tier Icon">
+                    
+                    <strong>
+                                                    TFT
+                                            </strong>
+                    Leaderboards
+                </h4>
+
+                
+                <div class="clearfix"></div>
+            </div>
+        
+        <table
+            class="table table-page-1 table-sort-tier">
+            <thead>
+            <tr>
+                <th class="rank">Rank</th>
+                                <th class="name">Name</th>
+                <th class="tier">Tier</th>
+                <th class="lp">
+                    <i class="fas fa-sort-amount-down"></i>
+                    LP
+                </th>
+                <th class="winrate">
+                    <i class="fas fa-sort-amount-down"></i>
+                    WinRate
+                </th>
+                <th class="toprate">TOP4 %</th>
+                <th class="played">
+                    <i class="fas fa-sort-amount-down"></i>
+                    Played
+                </th>
+                <th class="wins">
+                    <i class="fas fa-sort-amount-down"></i>
+                    Wins
+                </th>
+                <th class="tops">
+                    <i class="fas fa-sort-amount-down"></i>
+                    TOP4
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+                                            <tr>
+                    <td class="rank">1</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/17.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#1</span>
+                        <a href="https://lolchess.gg/profile/na/c9k3soju">
+                            C9 k3soju
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        1064 LP
+                    </td>
+                    <td class="winrate">
+                        28.8%
+                    </td>
+                    <td class="toprate">
+                        69.6%
+                    </td>
+                    <td class="played">184</td>
+                    <td class="wins">53</td>
+                    <td class="tops">128</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">2</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4400.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#2</span>
+                        <a href="https://lolchess.gg/profile/na/tsmkitingishard">
+                            TSM KitingisHard
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        1040 LP
+                    </td>
+                    <td class="winrate">
+                        24.6%
+                    </td>
+                    <td class="toprate">
+                        69.0%
+                    </td>
+                    <td class="played">187</td>
+                    <td class="wins">46</td>
+                    <td class="tops">129</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">3</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4275.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#3</span>
+                        <a href="https://lolchess.gg/profile/na/meanmisterkien">
+                            Mean Mister Kien
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        867 LP
+                    </td>
+                    <td class="winrate">
+                        21.1%
+                    </td>
+                    <td class="toprate">
+                        62.7%
+                    </td>
+                    <td class="played">228</td>
+                    <td class="wins">48</td>
+                    <td class="tops">143</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">4</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/1211.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#4</span>
+                        <a href="https://lolchess.gg/profile/na/nostereleven">
+                            Nostereleven
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        864 LP
+                    </td>
+                    <td class="winrate">
+                        15.6%
+                    </td>
+                    <td class="toprate">
+                        63.8%
+                    </td>
+                    <td class="played">243</td>
+                    <td class="wins">38</td>
+                    <td class="tops">155</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">5</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4275.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#5</span>
+                        <a href="https://lolchess.gg/profile/na/dqatft">
+                            DQA TFT
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        804 LP
+                    </td>
+                    <td class="winrate">
+                        17.8%
+                    </td>
+                    <td class="toprate">
+                        62.4%
+                    </td>
+                    <td class="played">247</td>
+                    <td class="wins">44</td>
+                    <td class="tops">154</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">6</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/936.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#6</span>
+                        <a href="https://lolchess.gg/profile/na/ayayamete">
+                            AYAYAMETE
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        766 LP
+                    </td>
+                    <td class="winrate">
+                        21.9%
+                    </td>
+                    <td class="toprate">
+                        68.6%
+                    </td>
+                    <td class="played">169</td>
+                    <td class="wins">37</td>
+                    <td class="tops">116</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">7</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3552.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#7</span>
+                        <a href="https://lolchess.gg/profile/na/mismatchedsocks">
+                            Mismatched Socks
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        762 LP
+                    </td>
+                    <td class="winrate">
+                        22.0%
+                    </td>
+                    <td class="toprate">
+                        65.9%
+                    </td>
+                    <td class="played">173</td>
+                    <td class="wins">38</td>
+                    <td class="tops">114</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">8</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/540.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#8</span>
+                        <a href="https://lolchess.gg/profile/na/deliciousmilkgg">
+                            DeliciousMilkGG
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        761 LP
+                    </td>
+                    <td class="winrate">
+                        26.4%
+                    </td>
+                    <td class="toprate">
+                        69.3%
+                    </td>
+                    <td class="played">140</td>
+                    <td class="wins">37</td>
+                    <td class="tops">97</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">9</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4693.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#9</span>
+                        <a href="https://lolchess.gg/profile/na/kiyoon">
+                            Kiyoon
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        723 LP
+                    </td>
+                    <td class="winrate">
+                        24.2%
+                    </td>
+                    <td class="toprate">
+                        60.8%
+                    </td>
+                    <td class="played">182</td>
+                    <td class="wins">44</td>
+                    <td class="tops">110</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">10</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/512.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#10</span>
+                        <a href="https://lolchess.gg/profile/na/jasonjava">
+                            jasonjava
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        711 LP
+                    </td>
+                    <td class="winrate">
+                        18.2%
+                    </td>
+                    <td class="toprate">
+                        58.6%
+                    </td>
+                    <td class="played">198</td>
+                    <td class="wins">36</td>
+                    <td class="tops">116</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">11</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4660.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#11</span>
+                        <a href="https://lolchess.gg/profile/na/moggymako">
+                            Moggy Mako
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        704 LP
+                    </td>
+                    <td class="winrate">
+                        14.9%
+                    </td>
+                    <td class="toprate">
+                        67.9%
+                    </td>
+                    <td class="played">168</td>
+                    <td class="wins">25</td>
+                    <td class="tops">114</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">12</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/1092.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#12</span>
+                        <a href="https://lolchess.gg/profile/na/agon">
+                            Agon
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        702 LP
+                    </td>
+                    <td class="winrate">
+                        23.7%
+                    </td>
+                    <td class="toprate">
+                        72.5%
+                    </td>
+                    <td class="played">131</td>
+                    <td class="wins">31</td>
+                    <td class="tops">95</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">13</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/7.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#13</span>
+                        <a href="https://lolchess.gg/profile/na/kevyzhou">
+                            kevyzhou
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        697 LP
+                    </td>
+                    <td class="winrate">
+                        21.0%
+                    </td>
+                    <td class="toprate">
+                        60.5%
+                    </td>
+                    <td class="played">233</td>
+                    <td class="wins">49</td>
+                    <td class="tops">141</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">14</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4368.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#14</span>
+                        <a href="https://lolchess.gg/profile/na/treebeardtwtv">
+                            Treebeard TwTv
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        626 LP
+                    </td>
+                    <td class="winrate">
+                        20.5%
+                    </td>
+                    <td class="toprate">
+                        57.3%
+                    </td>
+                    <td class="played">239</td>
+                    <td class="wins">49</td>
+                    <td class="tops">137</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">15</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/559.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#15</span>
+                        <a href="https://lolchess.gg/profile/na/tangela">
+                            Tangela
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        617 LP
+                    </td>
+                    <td class="winrate">
+                        22.2%
+                    </td>
+                    <td class="toprate">
+                        63.4%
+                    </td>
+                    <td class="played">153</td>
+                    <td class="wins">34</td>
+                    <td class="tops">97</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">16</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3544.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#16</span>
+                        <a href="https://lolchess.gg/profile/na/theshyuzimygod">
+                            TheshyuzimyGod
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        600 LP
+                    </td>
+                    <td class="winrate">
+                        17.4%
+                    </td>
+                    <td class="toprate">
+                        58.3%
+                    </td>
+                    <td class="played">264</td>
+                    <td class="wins">46</td>
+                    <td class="tops">154</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">17</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/29.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#17</span>
+                        <a href="https://lolchess.gg/profile/na/ruchampion">
+                            RU CHAMPION
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        583 LP
+                    </td>
+                    <td class="winrate">
+                        28.1%
+                    </td>
+                    <td class="toprate">
+                        67.4%
+                    </td>
+                    <td class="played">89</td>
+                    <td class="wins">25</td>
+                    <td class="tops">60</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">18</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/29.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#18</span>
+                        <a href="https://lolchess.gg/profile/na/ttvswellertiger">
+                            TTV Swellertiger
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        549 LP
+                    </td>
+                    <td class="winrate">
+                        27.2%
+                    </td>
+                    <td class="toprate">
+                        76.1%
+                    </td>
+                    <td class="played">92</td>
+                    <td class="wins">25</td>
+                    <td class="tops">70</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">19</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3478.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#19</span>
+                        <a href="https://lolchess.gg/profile/na/m35s">
+                            M35S
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        535 LP
+                    </td>
+                    <td class="winrate">
+                        18.0%
+                    </td>
+                    <td class="toprate">
+                        61.1%
+                    </td>
+                    <td class="played">244</td>
+                    <td class="wins">44</td>
+                    <td class="tops">149</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">20</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/624.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#20</span>
+                        <a href="https://lolchess.gg/profile/na/enaek">
+                            enaek
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        534 LP
+                    </td>
+                    <td class="winrate">
+                        20.7%
+                    </td>
+                    <td class="toprate">
+                        73.6%
+                    </td>
+                    <td class="played">87</td>
+                    <td class="wins">18</td>
+                    <td class="tops">64</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">21</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/659.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#21</span>
+                        <a href="https://lolchess.gg/profile/na/pawnup">
+                            Pawnup
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        526 LP
+                    </td>
+                    <td class="winrate">
+                        16.0%
+                    </td>
+                    <td class="toprate">
+                        61.1%
+                    </td>
+                    <td class="played">194</td>
+                    <td class="wins">31</td>
+                    <td class="tops">118</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">22</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/10.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#22</span>
+                        <a href="https://lolchess.gg/profile/na/wattzzy">
+                            wattzzy
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        476 LP
+                    </td>
+                    <td class="winrate">
+                        21.2%
+                    </td>
+                    <td class="toprate">
+                        68.7%
+                    </td>
+                    <td class="played">132</td>
+                    <td class="wins">28</td>
+                    <td class="tops">90</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">23</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3891.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#23</span>
+                        <a href="https://lolchess.gg/profile/na/hiimjoby">
+                            hi im joby
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        470 LP
+                    </td>
+                    <td class="winrate">
+                        12.0%
+                    </td>
+                    <td class="toprate">
+                        64.5%
+                    </td>
+                    <td class="played">200</td>
+                    <td class="wins">24</td>
+                    <td class="tops">129</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">24</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4660.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#24</span>
+                        <a href="https://lolchess.gg/profile/na/kalsu">
+                            Kalsu
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        455 LP
+                    </td>
+                    <td class="winrate">
+                        21.7%
+                    </td>
+                    <td class="toprate">
+                        59.8%
+                    </td>
+                    <td class="played">189</td>
+                    <td class="wins">41</td>
+                    <td class="tops">113</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">25</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/1301.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#25</span>
+                        <a href="https://lolchess.gg/profile/na/h2211">
+                            H2211
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        449 LP
+                    </td>
+                    <td class="winrate">
+                        22.5%
+                    </td>
+                    <td class="toprate">
+                        60.7%
+                    </td>
+                    <td class="played">151</td>
+                    <td class="wins">34</td>
+                    <td class="tops">91</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">26</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3836.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#26</span>
+                        <a href="https://lolchess.gg/profile/na/twitchtvjavaday">
+                            TwitchTV Javaday
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        449 LP
+                    </td>
+                    <td class="winrate">
+                        14.8%
+                    </td>
+                    <td class="toprate">
+                        60.2%
+                    </td>
+                    <td class="played">216</td>
+                    <td class="wins">32</td>
+                    <td class="tops">130</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">27</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/984.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#27</span>
+                        <a href="https://lolchess.gg/profile/na/ttvguubums">
+                            ttv guubums
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        433 LP
+                    </td>
+                    <td class="winrate">
+                        20.5%
+                    </td>
+                    <td class="toprate">
+                        58.5%
+                    </td>
+                    <td class="played">219</td>
+                    <td class="wins">45</td>
+                    <td class="tops">128</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">28</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/1593.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#28</span>
+                        <a href="https://lolchess.gg/profile/na/generalcai">
+                            GeneralCai
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        430 LP
+                    </td>
+                    <td class="winrate">
+                        28.4%
+                    </td>
+                    <td class="toprate">
+                        77.8%
+                    </td>
+                    <td class="played">81</td>
+                    <td class="wins">23</td>
+                    <td class="tops">63</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">29</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4368.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#29</span>
+                        <a href="https://lolchess.gg/profile/na/brocc%C3%B3li">
+                            Broccóli
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        423 LP
+                    </td>
+                    <td class="winrate">
+                        19.0%
+                    </td>
+                    <td class="toprate">
+                        60.6%
+                    </td>
+                    <td class="played">137</td>
+                    <td class="wins">26</td>
+                    <td class="tops">83</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">30</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/7.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#30</span>
+                        <a href="https://lolchess.gg/profile/na/jwhur">
+                            jwhur
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        413 LP
+                    </td>
+                    <td class="winrate">
+                        13.2%
+                    </td>
+                    <td class="toprate">
+                        57.2%
+                    </td>
+                    <td class="played">250</td>
+                    <td class="wins">33</td>
+                    <td class="tops">143</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">31</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4665.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#31</span>
+                        <a href="https://lolchess.gg/profile/na/60ember">
+                            60ember
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        409 LP
+                    </td>
+                    <td class="winrate">
+                        18.6%
+                    </td>
+                    <td class="toprate">
+                        57.9%
+                    </td>
+                    <td class="played">172</td>
+                    <td class="wins">32</td>
+                    <td class="tops">99</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">32</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/542.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#32</span>
+                        <a href="https://lolchess.gg/profile/na/beccatilts">
+                            becca tilts
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        403 LP
+                    </td>
+                    <td class="winrate">
+                        19.1%
+                    </td>
+                    <td class="toprate">
+                        55.1%
+                    </td>
+                    <td class="played">267</td>
+                    <td class="wins">51</td>
+                    <td class="tops">147</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">33</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4275.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#33</span>
+                        <a href="https://lolchess.gg/profile/na/numanotaihasin">
+                            numanotaihasin
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        390 LP
+                    </td>
+                    <td class="winrate">
+                        14.2%
+                    </td>
+                    <td class="toprate">
+                        57.8%
+                    </td>
+                    <td class="played">225</td>
+                    <td class="wins">32</td>
+                    <td class="tops">130</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">34</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/588.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#34</span>
+                        <a href="https://lolchess.gg/profile/na/theonly1z">
+                            theOnLy1z
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        390 LP
+                    </td>
+                    <td class="winrate">
+                        17.9%
+                    </td>
+                    <td class="toprate">
+                        63.5%
+                    </td>
+                    <td class="played">145</td>
+                    <td class="wins">26</td>
+                    <td class="tops">92</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">35</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/23.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#35</span>
+                        <a href="https://lolchess.gg/profile/na/xcellent2">
+                            Xcellent 2
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        382 LP
+                    </td>
+                    <td class="winrate">
+                        13.3%
+                    </td>
+                    <td class="toprate">
+                        64.3%
+                    </td>
+                    <td class="played">143</td>
+                    <td class="wins">19</td>
+                    <td class="tops">92</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">36</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4659.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#36</span>
+                        <a href="https://lolchess.gg/profile/na/velayy">
+                            Velayy
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        379 LP
+                    </td>
+                    <td class="winrate">
+                        16.6%
+                    </td>
+                    <td class="toprate">
+                        59.5%
+                    </td>
+                    <td class="played">163</td>
+                    <td class="wins">27</td>
+                    <td class="tops">97</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">37</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4569.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#37</span>
+                        <a href="https://lolchess.gg/profile/na/tftvx674706031">
+                            TFT VX 674706031
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        376 LP
+                    </td>
+                    <td class="winrate">
+                        16.7%
+                    </td>
+                    <td class="toprate">
+                        65.3%
+                    </td>
+                    <td class="played">144</td>
+                    <td class="wins">24</td>
+                    <td class="tops">94</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">38</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3546.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#38</span>
+                        <a href="https://lolchess.gg/profile/na/twitchrayditzfn">
+                            Twitch RayditzFN
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        375 LP
+                    </td>
+                    <td class="winrate">
+                        16.1%
+                    </td>
+                    <td class="toprate">
+                        55.5%
+                    </td>
+                    <td class="played">218</td>
+                    <td class="wins">35</td>
+                    <td class="tops">121</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">39</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4692.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#39</span>
+                        <a href="https://lolchess.gg/profile/na/kurumx">
+                            Kurumx
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        375 LP
+                    </td>
+                    <td class="winrate">
+                        23.9%
+                    </td>
+                    <td class="toprate">
+                        60.6%
+                    </td>
+                    <td class="played">142</td>
+                    <td class="wins">34</td>
+                    <td class="tops">86</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">40</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/1661.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#40</span>
+                        <a href="https://lolchess.gg/profile/na/robinsongz">
+                            robinsongz
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        371 LP
+                    </td>
+                    <td class="winrate">
+                        19.7%
+                    </td>
+                    <td class="toprate">
+                        56.3%
+                    </td>
+                    <td class="played">183</td>
+                    <td class="wins">36</td>
+                    <td class="tops">103</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">41</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4656.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#41</span>
+                        <a href="https://lolchess.gg/profile/na/5tunt">
+                            5tunt
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        366 LP
+                    </td>
+                    <td class="winrate">
+                        18.2%
+                    </td>
+                    <td class="toprate">
+                        55.8%
+                    </td>
+                    <td class="played">308</td>
+                    <td class="wins">56</td>
+                    <td class="tops">172</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">42</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/772.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#42</span>
+                        <a href="https://lolchess.gg/profile/na/livefortheday">
+                            Live for the Day
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        366 LP
+                    </td>
+                    <td class="winrate">
+                        17.6%
+                    </td>
+                    <td class="toprate">
+                        56.3%
+                    </td>
+                    <td class="played">279</td>
+                    <td class="wins">49</td>
+                    <td class="tops">157</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">43</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/7.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#43</span>
+                        <a href="https://lolchess.gg/profile/na/lilsteppy">
+                            lilsteppy
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        364 LP
+                    </td>
+                    <td class="winrate">
+                        17.9%
+                    </td>
+                    <td class="toprate">
+                        68.3%
+                    </td>
+                    <td class="played">123</td>
+                    <td class="wins">22</td>
+                    <td class="tops">84</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">44</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/7.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#44</span>
+                        <a href="https://lolchess.gg/profile/na/rushbigfan">
+                            Rush big fan
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        363 LP
+                    </td>
+                    <td class="winrate">
+                        29.9%
+                    </td>
+                    <td class="toprate">
+                        80.6%
+                    </td>
+                    <td class="played">67</td>
+                    <td class="wins">20</td>
+                    <td class="tops">54</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">45</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/685.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#45</span>
+                        <a href="https://lolchess.gg/profile/na/spicyappies">
+                            Spicy AppIes
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        358 LP
+                    </td>
+                    <td class="winrate">
+                        17.4%
+                    </td>
+                    <td class="toprate">
+                        58.1%
+                    </td>
+                    <td class="played">167</td>
+                    <td class="wins">29</td>
+                    <td class="tops">97</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">46</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4018.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#46</span>
+                        <a href="https://lolchess.gg/profile/na/1109">
+                            1 1 0 9
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        358 LP
+                    </td>
+                    <td class="winrate">
+                        21.6%
+                    </td>
+                    <td class="toprate">
+                        67.2%
+                    </td>
+                    <td class="played">125</td>
+                    <td class="wins">27</td>
+                    <td class="tops">84</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">47</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/667.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#47</span>
+                        <a href="https://lolchess.gg/profile/na/naturesbf">
+                            Naturesbf
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        356 LP
+                    </td>
+                    <td class="winrate">
+                        18.0%
+                    </td>
+                    <td class="toprate">
+                        61.0%
+                    </td>
+                    <td class="played">205</td>
+                    <td class="wins">37</td>
+                    <td class="tops">125</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">48</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4030.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#48</span>
+                        <a href="https://lolchess.gg/profile/na/xxxxxxyux">
+                            Xxxxxxyux
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        356 LP
+                    </td>
+                    <td class="winrate">
+                        19.1%
+                    </td>
+                    <td class="toprate">
+                        62.8%
+                    </td>
+                    <td class="played">94</td>
+                    <td class="wins">18</td>
+                    <td class="tops">59</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">49</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/7.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#49</span>
+                        <a href="https://lolchess.gg/profile/na/trikpi">
+                            trikpi
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        352 LP
+                    </td>
+                    <td class="winrate">
+                        19.6%
+                    </td>
+                    <td class="toprate">
+                        61.0%
+                    </td>
+                    <td class="played">148</td>
+                    <td class="wins">29</td>
+                    <td class="tops">89</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">50</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/7.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#50</span>
+                        <a href="https://lolchess.gg/profile/na/thehentaigod">
+                            TheHentaiGod
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        345 LP
+                    </td>
+                    <td class="winrate">
+                        22.4%
+                    </td>
+                    <td class="toprate">
+                        61.5%
+                    </td>
+                    <td class="played">156</td>
+                    <td class="wins">35</td>
+                    <td class="tops">96</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">51</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3864.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#51</span>
+                        <a href="https://lolchess.gg/profile/na/enzile">
+                            Enzile
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        344 LP
+                    </td>
+                    <td class="winrate">
+                        14.7%
+                    </td>
+                    <td class="toprate">
+                        56.3%
+                    </td>
+                    <td class="played">184</td>
+                    <td class="wins">27</td>
+                    <td class="tops">103</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">52</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4636.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#52</span>
+                        <a href="https://lolchess.gg/profile/na/elvisbeback">
+                            Elvisbeback
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        344 LP
+                    </td>
+                    <td class="winrate">
+                        15.7%
+                    </td>
+                    <td class="toprate">
+                        70.6%
+                    </td>
+                    <td class="played">102</td>
+                    <td class="wins">16</td>
+                    <td class="tops">72</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">53</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4448.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#53</span>
+                        <a href="https://lolchess.gg/profile/na/staxl">
+                            Staxl
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        337 LP
+                    </td>
+                    <td class="winrate">
+                        23.1%
+                    </td>
+                    <td class="toprate">
+                        64.8%
+                    </td>
+                    <td class="played">91</td>
+                    <td class="wins">21</td>
+                    <td class="tops">59</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">54</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4655.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#54</span>
+                        <a href="https://lolchess.gg/profile/na/attack">
+                            Attack
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        335 LP
+                    </td>
+                    <td class="winrate">
+                        19.2%
+                    </td>
+                    <td class="toprate">
+                        61.7%
+                    </td>
+                    <td class="played">120</td>
+                    <td class="wins">23</td>
+                    <td class="tops">74</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">55</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3378.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#55</span>
+                        <a href="https://lolchess.gg/profile/na/grandvice8">
+                            GrandVice8
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        335 LP
+                    </td>
+                    <td class="winrate">
+                        18.5%
+                    </td>
+                    <td class="toprate">
+                        65.3%
+                    </td>
+                    <td class="played">124</td>
+                    <td class="wins">23</td>
+                    <td class="tops">81</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">56</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4679.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#56</span>
+                        <a href="https://lolchess.gg/profile/na/cocozuikeai">
+                            COCO  ZUI KE AI
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        334 LP
+                    </td>
+                    <td class="winrate">
+                        21.1%
+                    </td>
+                    <td class="toprate">
+                        55.3%
+                    </td>
+                    <td class="played">228</td>
+                    <td class="wins">48</td>
+                    <td class="tops">126</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">57</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3879.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#57</span>
+                        <a href="https://lolchess.gg/profile/na/nafreekekw">
+                            NA FREE KEKW
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        332 LP
+                    </td>
+                    <td class="winrate">
+                        15.9%
+                    </td>
+                    <td class="toprate">
+                        59.5%
+                    </td>
+                    <td class="played">163</td>
+                    <td class="wins">26</td>
+                    <td class="tops">97</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">58</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/29.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#58</span>
+                        <a href="https://lolchess.gg/profile/na/kingprine">
+                            King Prine
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        326 LP
+                    </td>
+                    <td class="winrate">
+                        10.7%
+                    </td>
+                    <td class="toprate">
+                        57.9%
+                    </td>
+                    <td class="played">242</td>
+                    <td class="wins">26</td>
+                    <td class="tops">140</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">59</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4660.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#59</span>
+                        <a href="https://lolchess.gg/profile/na/garchompro">
+                            Garchompro
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        326 LP
+                    </td>
+                    <td class="winrate">
+                        13.8%
+                    </td>
+                    <td class="toprate">
+                        60.5%
+                    </td>
+                    <td class="played">109</td>
+                    <td class="wins">15</td>
+                    <td class="tops">66</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">60</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4423.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#60</span>
+                        <a href="https://lolchess.gg/profile/na/pyrirer">
+                            pyrirer
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        323 LP
+                    </td>
+                    <td class="winrate">
+                        14.0%
+                    </td>
+                    <td class="toprate">
+                        67.3%
+                    </td>
+                    <td class="played">100</td>
+                    <td class="wins">14</td>
+                    <td class="tops">66</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">61</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/29.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#61</span>
+                        <a href="https://lolchess.gg/profile/na/lizste2">
+                            lizste 2
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        322 LP
+                    </td>
+                    <td class="winrate">
+                        26.8%
+                    </td>
+                    <td class="toprate">
+                        69.0%
+                    </td>
+                    <td class="played">71</td>
+                    <td class="wins">19</td>
+                    <td class="tops">49</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">62</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/593.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#62</span>
+                        <a href="https://lolchess.gg/profile/na/val0rttv">
+                            Val0r TTV
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        321 LP
+                    </td>
+                    <td class="winrate">
+                        16.9%
+                    </td>
+                    <td class="toprate">
+                        62.1%
+                    </td>
+                    <td class="played">124</td>
+                    <td class="wins">21</td>
+                    <td class="tops">77</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">63</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3008.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#63</span>
+                        <a href="https://lolchess.gg/profile/na/xerluk">
+                            Xerluk
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        317 LP
+                    </td>
+                    <td class="winrate">
+                        14.4%
+                    </td>
+                    <td class="toprate">
+                        57.5%
+                    </td>
+                    <td class="played">167</td>
+                    <td class="wins">24</td>
+                    <td class="tops">96</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">64</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3836.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#64</span>
+                        <a href="https://lolchess.gg/profile/na/creamcrunch">
+                            creamcrunch
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        310 LP
+                    </td>
+                    <td class="winrate">
+                        19.3%
+                    </td>
+                    <td class="toprate">
+                        60.0%
+                    </td>
+                    <td class="played">140</td>
+                    <td class="wins">27</td>
+                    <td class="tops">84</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">65</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4405.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#65</span>
+                        <a href="https://lolchess.gg/profile/na/ilikehoboes">
+                            ILikeHoboes
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        304 LP
+                    </td>
+                    <td class="winrate">
+                        12.2%
+                    </td>
+                    <td class="toprate">
+                        59.8%
+                    </td>
+                    <td class="played">164</td>
+                    <td class="wins">20</td>
+                    <td class="tops">98</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">66</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4574.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#66</span>
+                        <a href="https://lolchess.gg/profile/na/slippinbug">
+                            slippinbug
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        299 LP
+                    </td>
+                    <td class="winrate">
+                        18.4%
+                    </td>
+                    <td class="toprate">
+                        63.1%
+                    </td>
+                    <td class="played">163</td>
+                    <td class="wins">30</td>
+                    <td class="tops">101</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">67</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4368.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#67</span>
+                        <a href="https://lolchess.gg/profile/na/peebo">
+                            peebo
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        293 LP
+                    </td>
+                    <td class="winrate">
+                        16.0%
+                    </td>
+                    <td class="toprate">
+                        54.0%
+                    </td>
+                    <td class="played">237</td>
+                    <td class="wins">38</td>
+                    <td class="tops">128</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">68</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/0.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#68</span>
+                        <a href="https://lolchess.gg/profile/na/leesom">
+                            leesom
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        293 LP
+                    </td>
+                    <td class="winrate">
+                        24.2%
+                    </td>
+                    <td class="toprate">
+                        63.6%
+                    </td>
+                    <td class="played">99</td>
+                    <td class="wins">24</td>
+                    <td class="tops">63</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">69</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4660.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#69</span>
+                        <a href="https://lolchess.gg/profile/na/nyuhu">
+                            Nyuhu
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        292 LP
+                    </td>
+                    <td class="winrate">
+                        10.8%
+                    </td>
+                    <td class="toprate">
+                        55.0%
+                    </td>
+                    <td class="played">278</td>
+                    <td class="wins">30</td>
+                    <td class="tops">153</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">70</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3542.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#70</span>
+                        <a href="https://lolchess.gg/profile/na/ttvbebe872">
+                            ttvBebe872
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        290 LP
+                    </td>
+                    <td class="winrate">
+                        14.5%
+                    </td>
+                    <td class="toprate">
+                        66.9%
+                    </td>
+                    <td class="played">124</td>
+                    <td class="wins">18</td>
+                    <td class="tops">83</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">71</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4658.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#71</span>
+                        <a href="https://lolchess.gg/profile/na/jamzydraco">
+                            jamzydraco
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        285 LP
+                    </td>
+                    <td class="winrate">
+                        20.1%
+                    </td>
+                    <td class="toprate">
+                        58.3%
+                    </td>
+                    <td class="played">139</td>
+                    <td class="wins">28</td>
+                    <td class="tops">81</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">72</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/19.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#72</span>
+                        <a href="https://lolchess.gg/profile/na/subism">
+                            Subism
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        283 LP
+                    </td>
+                    <td class="winrate">
+                        18.2%
+                    </td>
+                    <td class="toprate">
+                        55.9%
+                    </td>
+                    <td class="played">143</td>
+                    <td class="wins">26</td>
+                    <td class="tops">80</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">73</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/1426.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#73</span>
+                        <a href="https://lolchess.gg/profile/na/myoui">
+                            Myoui
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        282 LP
+                    </td>
+                    <td class="winrate">
+                        12.1%
+                    </td>
+                    <td class="toprate">
+                        64.7%
+                    </td>
+                    <td class="played">116</td>
+                    <td class="wins">14</td>
+                    <td class="tops">75</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">74</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4277.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#74</span>
+                        <a href="https://lolchess.gg/profile/na/laplacetails">
+                            Laplace Tails
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        281 LP
+                    </td>
+                    <td class="winrate">
+                        15.7%
+                    </td>
+                    <td class="toprate">
+                        60.1%
+                    </td>
+                    <td class="played">153</td>
+                    <td class="wins">24</td>
+                    <td class="tops">92</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">75</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3590.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#75</span>
+                        <a href="https://lolchess.gg/profile/na/sophielle">
+                            Sophielle
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        281 LP
+                    </td>
+                    <td class="winrate">
+                        16.9%
+                    </td>
+                    <td class="toprate">
+                        63.7%
+                    </td>
+                    <td class="played">124</td>
+                    <td class="wins">21</td>
+                    <td class="tops">79</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">76</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/1301.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#76</span>
+                        <a href="https://lolchess.gg/profile/na/kunbee">
+                            Kunbee
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        280 LP
+                    </td>
+                    <td class="winrate">
+                        16.0%
+                    </td>
+                    <td class="toprate">
+                        60.7%
+                    </td>
+                    <td class="played">150</td>
+                    <td class="wins">24</td>
+                    <td class="tops">91</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">77</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/558.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#77</span>
+                        <a href="https://lolchess.gg/profile/na/xdgweinis">
+                            XDG Weinis
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        277 LP
+                    </td>
+                    <td class="winrate">
+                        16.5%
+                    </td>
+                    <td class="toprate">
+                        60.6%
+                    </td>
+                    <td class="played">133</td>
+                    <td class="wins">22</td>
+                    <td class="tops">80</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">78</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4022.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#78</span>
+                        <a href="https://lolchess.gg/profile/na/zugrug">
+                            zugrug
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        272 LP
+                    </td>
+                    <td class="winrate">
+                        15.4%
+                    </td>
+                    <td class="toprate">
+                        53.4%
+                    </td>
+                    <td class="played">221</td>
+                    <td class="wins">34</td>
+                    <td class="tops">118</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">79</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3014.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#79</span>
+                        <a href="https://lolchess.gg/profile/na/qwadqwadqwadqwad">
+                            QWADQWADQWADQWAD
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        271 LP
+                    </td>
+                    <td class="winrate">
+                        13.3%
+                    </td>
+                    <td class="toprate">
+                        56.9%
+                    </td>
+                    <td class="played">195</td>
+                    <td class="wins">26</td>
+                    <td class="tops">111</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">80</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4657.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#80</span>
+                        <a href="https://lolchess.gg/profile/na/todzibile">
+                            Tod zibile
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        266 LP
+                    </td>
+                    <td class="winrate">
+                        30.4%
+                    </td>
+                    <td class="toprate">
+                        71.0%
+                    </td>
+                    <td class="played">69</td>
+                    <td class="wins">21</td>
+                    <td class="tops">49</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">81</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/22.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#81</span>
+                        <a href="https://lolchess.gg/profile/na/ttvgyalubaby">
+                            ttv gyalubaby
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        265 LP
+                    </td>
+                    <td class="winrate">
+                        13.7%
+                    </td>
+                    <td class="toprate">
+                        57.9%
+                    </td>
+                    <td class="played">183</td>
+                    <td class="wins">25</td>
+                    <td class="tops">106</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">82</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/1631.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#82</span>
+                        <a href="https://lolchess.gg/profile/na/kracklite">
+                            Kracklite
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        264 LP
+                    </td>
+                    <td class="winrate">
+                        17.4%
+                    </td>
+                    <td class="toprate">
+                        57.8%
+                    </td>
+                    <td class="played">155</td>
+                    <td class="wins">27</td>
+                    <td class="tops">89</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">83</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4216.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#83</span>
+                        <a href="https://lolchess.gg/profile/na/igorblonded">
+                            IGORblonded
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        264 LP
+                    </td>
+                    <td class="winrate">
+                        19.0%
+                    </td>
+                    <td class="toprate">
+                        59.5%
+                    </td>
+                    <td class="played">121</td>
+                    <td class="wins">23</td>
+                    <td class="tops">72</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">84</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4027.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#84</span>
+                        <a href="https://lolchess.gg/profile/na/twitchdallasyes">
+                            Twitch Dallasyes
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        263 LP
+                    </td>
+                    <td class="winrate">
+                        17.9%
+                    </td>
+                    <td class="toprate">
+                        57.1%
+                    </td>
+                    <td class="played">168</td>
+                    <td class="wins">30</td>
+                    <td class="tops">96</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">85</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/29.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#85</span>
+                        <a href="https://lolchess.gg/profile/na/jromf">
+                            Jrom  F
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        262 LP
+                    </td>
+                    <td class="winrate">
+                        31.1%
+                    </td>
+                    <td class="toprate">
+                        56.3%
+                    </td>
+                    <td class="played">119</td>
+                    <td class="wins">37</td>
+                    <td class="tops">67</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">86</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4569.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#86</span>
+                        <a href="https://lolchess.gg/profile/na/kazhu">
+                            Kazhu
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        262 LP
+                    </td>
+                    <td class="winrate">
+                        17.8%
+                    </td>
+                    <td class="toprate">
+                        65.3%
+                    </td>
+                    <td class="played">101</td>
+                    <td class="wins">18</td>
+                    <td class="tops">66</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">87</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/1591.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#87</span>
+                        <a href="https://lolchess.gg/profile/na/ajmonsta">
+                            ajmonsta
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        262 LP
+                    </td>
+                    <td class="winrate">
+                        14.9%
+                    </td>
+                    <td class="toprate">
+                        63.5%
+                    </td>
+                    <td class="played">107</td>
+                    <td class="wins">16</td>
+                    <td class="tops">68</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">88</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4052.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#88</span>
+                        <a href="https://lolchess.gg/profile/na/xnieamo">
+                            Xnieamo
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        259 LP
+                    </td>
+                    <td class="winrate">
+                        20.5%
+                    </td>
+                    <td class="toprate">
+                        58.9%
+                    </td>
+                    <td class="played">112</td>
+                    <td class="wins">23</td>
+                    <td class="tops">66</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">89</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3543.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#89</span>
+                        <a href="https://lolchess.gg/profile/na/paidmydues">
+                            PAID MY DUES
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        254 LP
+                    </td>
+                    <td class="winrate">
+                        15.8%
+                    </td>
+                    <td class="toprate">
+                        56.8%
+                    </td>
+                    <td class="played">227</td>
+                    <td class="wins">36</td>
+                    <td class="tops">129</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">90</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4219.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#90</span>
+                        <a href="https://lolchess.gg/profile/na/zray">
+                            ZRAY
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        253 LP
+                    </td>
+                    <td class="winrate">
+                        11.1%
+                    </td>
+                    <td class="toprate">
+                        57.3%
+                    </td>
+                    <td class="played">226</td>
+                    <td class="wins">25</td>
+                    <td class="tops">129</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">91</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3879.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#91</span>
+                        <a href="https://lolchess.gg/profile/na/amazingturd">
+                            AmazingTurd
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        252 LP
+                    </td>
+                    <td class="winrate">
+                        20.4%
+                    </td>
+                    <td class="toprate">
+                        51.5%
+                    </td>
+                    <td class="played">235</td>
+                    <td class="wins">48</td>
+                    <td class="tops">121</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">92</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4414.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#92</span>
+                        <a href="https://lolchess.gg/profile/na/lizste">
+                            lizste
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        251 LP
+                    </td>
+                    <td class="winrate">
+                        23.1%
+                    </td>
+                    <td class="toprate">
+                        60.8%
+                    </td>
+                    <td class="played">130</td>
+                    <td class="wins">30</td>
+                    <td class="tops">79</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">93</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/599.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#93</span>
+                        <a href="https://lolchess.gg/profile/na/bigpurplecow">
+                            big purple cow
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        247 LP
+                    </td>
+                    <td class="winrate">
+                        24.1%
+                    </td>
+                    <td class="toprate">
+                        56.5%
+                    </td>
+                    <td class="played">108</td>
+                    <td class="wins">26</td>
+                    <td class="tops">61</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">94</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4673.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#94</span>
+                        <a href="https://lolchess.gg/profile/na/clear">
+                            Clear
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        244 LP
+                    </td>
+                    <td class="winrate">
+                        20.3%
+                    </td>
+                    <td class="toprate">
+                        61.7%
+                    </td>
+                    <td class="played">128</td>
+                    <td class="wins">26</td>
+                    <td class="tops">79</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">95</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4650.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#95</span>
+                        <a href="https://lolchess.gg/profile/na/yoshiwee">
+                            Yoshiwee
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        244 LP
+                    </td>
+                    <td class="winrate">
+                        19.7%
+                    </td>
+                    <td class="toprate">
+                        62.3%
+                    </td>
+                    <td class="played">122</td>
+                    <td class="wins">24</td>
+                    <td class="tops">76</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">96</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4589.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#96</span>
+                        <a href="https://lolchess.gg/profile/na/popojian">
+                            popojian
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        240 LP
+                    </td>
+                    <td class="winrate">
+                        17.9%
+                    </td>
+                    <td class="toprate">
+                        59.3%
+                    </td>
+                    <td class="played">145</td>
+                    <td class="wins">26</td>
+                    <td class="tops">86</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">97</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4368.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#97</span>
+                        <a href="https://lolchess.gg/profile/na/maxxxers">
+                            Maxxxers
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        234 LP
+                    </td>
+                    <td class="winrate">
+                        20.9%
+                    </td>
+                    <td class="toprate">
+                        65.8%
+                    </td>
+                    <td class="played">115</td>
+                    <td class="wins">24</td>
+                    <td class="tops">75</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">98</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4368.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#98</span>
+                        <a href="https://lolchess.gg/profile/na/ttvinikoiniko">
+                            TTV inikoiniko
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        213 LP
+                    </td>
+                    <td class="winrate">
+                        16.7%
+                    </td>
+                    <td class="toprate">
+                        56.3%
+                    </td>
+                    <td class="played">245</td>
+                    <td class="wins">41</td>
+                    <td class="tops">138</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">99</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/4272.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#99</span>
+                        <a href="https://lolchess.gg/profile/na/grizzleeatstuna">
+                            GrizzleEatsTuna
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        186 LP
+                    </td>
+                    <td class="winrate">
+                        16.5%
+                    </td>
+                    <td class="toprate">
+                        61.1%
+                    </td>
+                    <td class="played">139</td>
+                    <td class="wins">23</td>
+                    <td class="tops">85</td>
+                </tr>
+                                            <tr>
+                    <td class="rank">100</td>
+                                        <td class="summoner">
+                                                    <img src="//ddragon.leagueoflegends.com/cdn/10.19.1/img/profileicon/3795.png" alt="Profile Icon"
+                                 onerror="this.src = '//cdn.lolchess.gg/images/leaderboards/ico-tier-placeholder.png';"
+                                 class="border-radius-50 mr-05 align-middle">
+                                                <span class="rank">#100</span>
+                        <a href="https://lolchess.gg/profile/na/captainkookie">
+                            captain kookie
+                            <i class="far fa-link"></i>
+                        </a>
+                    </td>
+                    <td class="tier">
+                        <img src="//cdn.lolchess.gg/images/lol/tier/challenger_1.png" class="icon" alt="Tier Icon">
+                        <span
+                            class="tier-name-sm">CHALLENGER I</span>
+                        <span class="tier-name-xxs">C1</span>
+                    </td>
+                    <td class="lp active">
+                        141 LP
+                    </td>
+                    <td class="winrate">
+                        15.8%
+                    </td>
+                    <td class="toprate">
+                        68.0%
+                    </td>
+                    <td class="played">101</td>
+                    <td class="wins">16</td>
+                    <td class="tops">68</td>
+                </tr>
+            
+                        </tbody>
+        </table>
+
+                    <div class="w-100 mt-3 text-center" style="clear: both; float: left;">
+                <ul class="pagination" role="navigation">
+                    
+                                                                        <li class="page-item active" aria-current="page"><span class="page-link">1</span>
+                            </li>
+                                                                                                <li class="page-item">
+                                <a class="page-link"
+                                   href="https://lolchess.gg/leaderboards?region=na&amp;page=2">2</a>
+                            </li>
+                                                                                                <li class="page-item">
+                                <a class="page-link"
+                                   href="https://lolchess.gg/leaderboards?region=na&amp;page=3">3</a>
+                            </li>
+                                                                                                <li class="page-item">
+                                <a class="page-link"
+                                   href="https://lolchess.gg/leaderboards?region=na&amp;page=4">4</a>
+                            </li>
+                                                                                                <li class="page-item">
+                                <a class="page-link"
+                                   href="https://lolchess.gg/leaderboards?region=na&amp;page=5">5</a>
+                            </li>
+                                                                                                <li class="page-item">
+                                <a class="page-link"
+                                   href="https://lolchess.gg/leaderboards?region=na&amp;page=6">6</a>
+                            </li>
+                                                                                                <li class="page-item">
+                                <a class="page-link"
+                                   href="https://lolchess.gg/leaderboards?region=na&amp;page=7">7</a>
+                            </li>
+                                                                                                <li class="page-item">
+                                <a class="page-link"
+                                   href="https://lolchess.gg/leaderboards?region=na&amp;page=8">8</a>
+                            </li>
+                                                                                                <li class="page-item">
+                                <a class="page-link"
+                                   href="https://lolchess.gg/leaderboards?region=na&amp;page=9">9</a>
+                            </li>
+                                                                                                <li class="page-item">
+                                <a class="page-link"
+                                   href="https://lolchess.gg/leaderboards?region=na&amp;page=10">10</a>
+                            </li>
+                                            
+                                    </ul>
+            </div>
+            </div>
+ <footer>
+        <div class="container">
+            <div class="locale">
+                                                                
+    <ul class="dropdown-menu">
+                                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=ko-KR" data-lang="ko_KR">
+                    한국어
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=en-US" data-lang="en_US">
+                    English
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=ja-JP" data-lang="ja_JP">
+                    日本語
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=vi-VN" data-lang="vi_VN">
+                    Tiếng Việt
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/leaderboards?region=na&hl=de-DE" data-lang="de_DE">
+                    Deutsch
+                </a>
+            </li>
+            </ul>
+</div>
+            <p class="copyright">
+                © LoLCHESS.GG. All Rights Reserved. <a href="mailto:tft@lolchess.gg">TFT@LoLCHESS.GG</a>
+            </p>
+            <p>
+                lolchess.gg is hosted by PlayXP Inc.
+                lolchess.gg isn’t endorsed by Riot Games
+                and doesn’t reflect the views or opinions of Riot Games
+                or anyone officially involved in producing or managing League of Legends.
+                League of Legends and Riot Games are trademarks
+                or registered trademarks of Riot Games, Inc.
+                League of Legends © Riot Games, Inc.
+            </p>
+                    </div>
+    </footer>
+</div>
+<script>
+    window.__locale = "en";
+    window.__i18n = {"general":{"share":"Share","close":"Close","shareCopyPlaceholder":"Click to copy url","copySuccessMessage":"Copied","networkErrorMessage":"Network error occurred.","serverErrorMessage":"Server error occurred.","serverErrorRetryLaterMessage":"Server error occurred. Please try again in a moment.","inMaintenanceRetryLaterMessage":"We're temporarily down for maintenance. Please try again in a moment.","abnormalAccessMessage":"Abnormal access","champion":"Champion","item":"Item","tier":"Tier","cost":"Cost","winrate":"Winrate","pickrate":"Pickrate","toprate":"Toprate","top4rate":"TOP4%","average_placement":"Avg. Placement","view_details":"View","galaxies":"Galaxies","all_galaxies":"All Galaxies","all":"All","item_priority":"Item Priority","similar_deck":"Similar Deck","selectedChampions":{"title":"Selected Champions","reset":"Reset","message":"Choose Champions"},"nodataMessage":"No deck contains all the selected champions.","noDeckUsingChampionMessage":"There are no decks using that champion.","openInBuilder":"Open in Builder","timing":{"early":"Early","mid":"Mid","final":"Final"},"darkTheme":"Dark theme","button":{"more":"More"},"average_of_all_galaxies":"Avg. All Galaxies","seasonStateInitMessage":"<i class=\"fas fa-exclamation-circle\"><\/i> We are collecting stats for set {set}.<br>At the beginning of the set, please refer to <a href=\"https:\/\/lolchess.gg\/meta\">Comps page<\/a> and <a href=\"https:\/\/lolchess.gg\/decks\/matches\">Recent Winner Decks<\/a>."}};
+</script>
+<script src="//cdn.lolchess.gg/js/app.js?id=8d11985a2747ccf5c48b"></script>
+<script src="//cdn.lolchess.gg/js/bootstrap.min.js"></script>
+    <script src="//cdn.lolchess.gg/js/Chart.min.js"></script>
+    <script>
+        $(function () {
+            refreshTooltip();
+        });
+
+                new Chart($('.leaderboards-distribution canvas')[0].getContext('2d'), {
+            type: 'bar',
+            data: {
+                labels: ["CHALLENGER I","GRANDMASTER I","MASTER I","DIAMOND I","DIAMOND II","DIAMOND III","DIAMOND IV","PLATINUM I","PLATINUM II","PLATINUM III","PLATINUM IV","GOLD I","GOLD II","GOLD III","GOLD IV","SILVER I","SILVER II","SILVER III","SILVER IV","BRONZE I","BRONZE II","BRONZE III","BRONZE IV","IRON I","IRON II","IRON III","IRON IV"],
+                datasets: [
+                    {
+                        backgroundColor: '#363944',
+                        borderColor: '#363944',
+                        borderWidth: 1,
+                        data: ["0.01","0.03","0.05","0.06","0.13","0.22","0.57","0.43","0.84","1.37","2.81","2.23","3.90","6.03","9.71","8.07","11.12","12.01","12.30","7.92","7.09","5.41","3.71","1.94","1.56","0.45","0.01"]
+                    }
+                ]
+            },
+            options: {
+                animation: {
+                    duration: 200
+                },
+                layout: {
+                    padding: {
+                        left: 15,
+                        right: 15,
+                        top: 20,
+                        bottom: 5
+                    }
+                },
+                legend: {
+                    display: false
+                },
+                //responsive: false,
+                maintainAspectRatio: false,
+                title: {
+                    display: false
+                },
+                scales: {
+                    xAxes: [{
+                        display: true,
+                        scaleLabel: {
+                            display: false
+                        }
+                    }],
+                    yAxes: [{
+                        display: true,
+                        scaleLabel: {
+                            display: false
+                        }
+                    }]
+                },
+                tooltips: {
+                    intersect: false,
+                    callbacks: {
+                        title: function (tooltipItems) {
+                            return 'Tier: %s'.replace('%s', tooltipItems[0].xLabel);
+                        },
+                        label: function (tooltipItems) {
+                            if (tooltipItems.yLabel.toString() === '0.0001') return 'Ratio: %s%'.replace('%s', 0);
+                            return 'Ratio: %s%'.replace('%s', tooltipItems.yLabel);
+                        }
+                    }
+                }
+            }
+        });
+            </script>
+<script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '1f9ed3fb-f7a5-4ff8-a57e-eb8a879e0f03')</script>
+</body>
+</html>
